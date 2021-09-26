@@ -1,0 +1,6 @@
+#Write a program to print your Name, ID, Department and Email
+
+print("Name : Sifat")
+print("ID : 158213345")
+print("Department : BSC IN CSE")
+print("Gmail : sifat@gmail.com")
