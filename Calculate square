@@ -1,0 +1,6 @@
+#Write a program to find the square of the number taken from user
+
+value = float(input("Enter any value : ")) # input a number
+
+square = value * value  # calculate square
+print("Square value : ",square)
