@@ -1,0 +1,10 @@
+#Write a program to convert Fahrenheit to Celsius or vice versa using functions.
+
+
+celsius = float(input("Enter any celsius: ")) # input a temperature
+fahrenheit = (celsius * 9/5) + 32  # calculate fahrenheit
+print('%.2f Celsius is: %0.2f Fahrenheit' %(celsius, fahrenheit)) 
+
+fahrenheit = float(input("Enter any fahrenheit: ")) # input a temperature
+celsius = (fahrenheit - 32) * 5/9   # calculate celsius
+print('%.2f Fahrenheit is: %0.2f Celsius' %(fahrenheit, celsius)) 
